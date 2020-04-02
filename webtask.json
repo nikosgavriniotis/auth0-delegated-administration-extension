@@ -1,6 +1,6 @@
 {
-  "title": "Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "title": "Delegated Administration Dashboard Custom",
+  "name": "auth0-delegated-admin-custom",
   "version": "4.2.0",
   "author": "auth0",
   "useHashName": false,
